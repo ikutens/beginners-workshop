@@ -1,4 +1,4 @@
-# Beginners Workshop
+# Beginners Workshop - TEST!!
 Git and GitHub workshop for beginners
 
 ## Open an issue
